@@ -246,6 +246,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Constant>Nothing</Constant>
+			<Catalog>frweerfraef</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
